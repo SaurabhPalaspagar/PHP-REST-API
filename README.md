@@ -16,7 +16,7 @@ This service will then be avaialble at https://localhost//update.php?firstName=x
 
 **The best way to test the endpoints is using the  [POSTMAN](https://www.getpostman.com/) which is a GUI for testing API's**
 
-# SQL FILE user.sql
+# SQL FILE - user.sql
 
 This is the SQL table stored in the database. Modify it according to your requirements.
 
